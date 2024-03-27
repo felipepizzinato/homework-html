@@ -17,3 +17,8 @@
 #conteudo {
     line-height: 1.5;
 }
+
+.formulario_contato {
+    border: solid 1px gray ;
+    padding: 10px;
+}
